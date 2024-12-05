@@ -1,4 +1,4 @@
-## 14年老鹅～
+## 14年老鹅（work in Tencent 14 years）～
 
 <!--
 **vinsentli/vinsentli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
