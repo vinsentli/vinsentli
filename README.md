@@ -1,11 +1,9 @@
-
-![vinsentli's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinsentli)
-
-
 IGL Nanovg : Run on OpenGL, Metal, Vulkan.
 https://github.com/facebook/igl/pull/213
 
 https://github.com/user-attachments/assets/4428c775-8002-407b-a454-1f3e0913d46b
+
+![vinsentli's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinsentli)
 
 <!--
 **vinsentli/vinsentli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
