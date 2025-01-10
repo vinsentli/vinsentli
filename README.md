@@ -1,4 +1,4 @@
-回首向来萧瑟处，也无风雨也无晴！
+竹杖芒鞋轻胜马，一蓑烟雨任平生。
 
 <!--
 IGL Nanovg : Run on OpenGL, Metal, Vulkan.
